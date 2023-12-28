@@ -7,4 +7,4 @@
         <li>Python basics</li>
     </ul>
 </div>
-<p>User can get access to his currency's exchange rates.</p>
+<p>User can get access to currency's exchange rates.</p>
