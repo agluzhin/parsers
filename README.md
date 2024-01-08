@@ -1,4 +1,3 @@
-# parsers
 <div>
     <p>A <b>logic of parser working</b> with which you can find currencies rates, coded by using:</p>
     <ul>
